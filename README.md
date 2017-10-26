@@ -18,10 +18,10 @@ concatenate: {
                 'public/devices/7.json',
                 'public/devices/8.json',
                 'public/devices/9.json',
-                'public/devices/10.json'
-            ]
-        }
-    }
+                'public/devices/10.json',
+            ],
+        },
+    },
 }
 ```
 
